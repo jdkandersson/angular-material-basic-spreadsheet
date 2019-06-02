@@ -1,4 +1,4 @@
-// table.component.ts
+// order-table.component.ts
 import { Component, OnInit } from '@angular/core';
 
 import { OrderTable } from './order-table.model';
