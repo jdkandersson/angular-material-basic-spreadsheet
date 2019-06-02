@@ -27,8 +27,7 @@ export class OrderService {
           'Oranges': orders[2]
         },
         '2000-02-01': {
-          'Apples': orders[1],
-          'Oranges': orders[3]
+          'Apples': orders[1]
         }
       }
     };
